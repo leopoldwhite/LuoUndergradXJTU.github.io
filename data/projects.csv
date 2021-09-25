@@ -1,3 +1,7 @@
 name,description,link,newTab,current,category
-Multimodal Deception Detection,"We explore a new generation of computational tools for joint modeling of physiological and linguistic signals of human behavior. Our research work includes the construction of multimodal resources for the deception detection task, including novel physio-linguistic datasets as well as the development of multimodal approaches that integrate physiological features (e.g., heart rate, respiration rate, galvanic skin response, skin temperature), and linguistic features.",http://lit.eecs.umich.edu/~deceptiondetection/,TRUE,TRUE,LIT
-Twitter Bot Detection,blahblah,,FALSE,TRUE,LIT
+Twitter bot detection,blahblah,,FALSE,TRUE,LIT
+Political perspective detection,blahblah,,FALSE,TRUE,LIT
+Knowledge graph representation learning,blahblah,,FALSE,TRUE,LIT
+Data efficiency on GNNs,blahblah,,FALSE,TRUE,LIT
+distributed learning on GNNs,blahblah,,FALSE,TRUE,LIT
+knowledge-aware text analysis,blahblah,,FALSE,TRUE,LIT
