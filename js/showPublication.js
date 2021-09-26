@@ -23,7 +23,7 @@ function showPublication(publication,includeDownloadLink) {
         }
         if(publication.demo) {
             // entry = entry + '<a href="' + publication.demo + '" target="_blank">slides</a>';
-            entry = entry + '<a class="link-no-underline" href="files/'+publication.demo+'.pdf" target="_blank">slidesr</a>';
+            entry = entry + '<a class="link-no-underline" href="files/'+publication.demo+'.pdf" target="_blank">slides</a>';
             if(publication.data || publication.software || publication.abstract || publication.bibtex || publication.poster) {
                 entry = entry + ', ';
             }
