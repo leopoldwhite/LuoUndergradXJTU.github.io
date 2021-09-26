@@ -34,7 +34,7 @@ function showPublication(publication,includeDownloadLink) {
             }
         } 
         if(publication.software) {
-            entry = entry + '<a href="' + publication.software + '" target="_blank">software</a>';
+            entry = entry + '<a href="' + publication.software + '" target="_blank">code</a>';
             if(publication.abstract || publication.bibtex || publication.poster) {
                 entry = entry + ', ';
             }
