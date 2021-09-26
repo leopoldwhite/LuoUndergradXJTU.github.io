@@ -22,7 +22,8 @@ function showPublication(publication,includeDownloadLink) {
             }
         }
         if(publication.demo) {
-            entry = entry + '<a href="' + publication.demo + '" target="_blank">demo</a>';
+            // entry = entry + '<a href="' + publication.demo + '" target="_blank">slides</a>';
+            entry = entry + '<a class="link-no-underline" href="files/'+publication.demo+'.pdf" target="_blank">poster</a>';
             if(publication.data || publication.software || publication.abstract || publication.bibtex || publication.poster) {
                 entry = entry + ', ';
             }
