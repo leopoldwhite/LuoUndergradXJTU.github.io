@@ -1,7 +1,7 @@
 name,description,link,newTab,current,category
-Twitter bot detection,blahblah,,FALSE,TRUE,LIT
-Political perspective detection,blahblah,,FALSE,TRUE,LIT
-Knowledge graph representation learning,blahblah,,FALSE,TRUE,LIT
-Data efficiency on GNNs,blahblah,,FALSE,TRUE,LIT
-distributed learning on GNNs,blahblah,,FALSE,TRUE,LIT
-knowledge-aware text analysis,blahblah,,FALSE,TRUE,LIT
+Twitter bot detection,"Twitter is home to an ample amount of automated programs, which are also known as <b>Twitter bots</b>. We propose Twitter bot detection solutions which addresses limitations of existing datasets, aiming to generalize and adapt while conducting graph-based and heterogeneity-aware bot detection. </br>People: Shangbin Feng, Herun Wan, Ningnan Wang, Zhaoxuan Tan",,FALSE,TRUE,LIT
+Political perspective detection,"Political perspective detection aims to identify the political stances expressed in textual data. We conduct knowledge-aware perspective detection by integrating knowledge graphs while also studying the novel task of entity stance prediction. </br>People: Shangbin Feng, Zilong Chen, Qingyao Li, Peisheng Yu",,FALSE,TRUE,LIT
+Knowledge graph representation learning,"Knowledge graphs are structural representations of real-world knowledge and they could also be leveraged for knowledge-aware applications. We study knowledge graph representation learning while focusing on incorporating self-supervised learning and contrastive learning schema.</br>  People: Zhaoxuan Tan, Zilong Chen, Shangbin Feng",,FALSE,TRUE,LIT
+Data efficiency on GNNs,"Few-shot learning with graph neural networks has been an active and promising research direction. We study data efficiency issues on non-homogeneous graphs with a focus on heterogeneous graphs and temporal graphs.</br> People: Qingyue Zhang, Shangbin Feng",,FALSE,TRUE,LIT
+distributed learning on GNNs,ZBC please help us fill this in.</br>People: Binchi Zhang,,FALSE,TRUE,LIT
+knowledge-aware text analysis,"In addition to textual content, people leverage background knowledge to better understand natural language and complement the reasoning process. We study knowledge-aware text analysis with a focus on text classification with the help of relevant knowledge graphs.</br> People: Wenqian Zhang",,FALSE,TRUE,LIT
