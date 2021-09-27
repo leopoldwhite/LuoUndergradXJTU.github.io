@@ -62,7 +62,7 @@ function processRecentNews(allText,pageCategory) {
         }
 
 	//A little bit hack-y
-	if(appended == 8 && !last) {
+	if(appended == 4 && !last) {
 	    last = true;
     	    var pageCategory = $('meta[name=category]').attr("content");
     	    if(pageCategory == "LIT") {
