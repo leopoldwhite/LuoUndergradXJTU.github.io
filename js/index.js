@@ -55,7 +55,7 @@ function processRecentNews(allText,pageCategory) {
             }
             entry = entry + '</p>';
 
-            if(appended < 8) { //Only show the most recent entries on the home page
+            if(appended < 4) { //Only show the most recent entries on the home page
                 $('#recent_news').append(entry);
                 appended = appended + 1;
             }
