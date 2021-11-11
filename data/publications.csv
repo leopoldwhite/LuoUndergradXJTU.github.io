@@ -1,4 +1,4 @@
-year,title,authors,publication,link,category,Slides,data,software,bibtex,abstract,poster,posterTitle,posterAuthors,posterConference,posterYear,posterLocation,pageCategory,download,downloadName,downloadDescription,downloadLink,downloadDate,downloadLinkNames,new,notes
+year,title,authors,publication,link,category,demo,data,software,bibtex,abstract,poster,posterTitle,posterAuthors,posterConference,posterYear,posterLocation,pageCategory,download,downloadName,downloadDescription,downloadLink,downloadDate,downloadLinkNames,new,notes
 2021,TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark,"Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo","ACM International Conference on Information and Knowledge Management (CIKM), 2021. [32.5% acceptance rate]",https://arxiv.org/pdf/2106.13088.pdf,Social Network Analysis,TwiBot-20_slides,https://github.com/BunsenFeng/TwiBot-20,,"@inproceedings{10.1145/3459637.3482019,</br>
 author = {Feng, Shangbin and Wan, Herun and Wang, Ningnan and Li, Jundong and Luo, Minnan and Luo, Minnan},</br>
 title = {TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark},</br>
