@@ -1,5 +1,5 @@
 year,title,authors,publication,link,category,demo,data,software,bibtex,abstract,poster,posterTitle,posterAuthors,posterConference,posterYear,posterLocation,pageCategory,download,downloadName,downloadDescription,downloadLink,downloadDate,downloadLinkNames,new,notes
-2021,Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers,"Shangbin Feng, Zhaoxuan Tan, Rui Li, Minnan Luo","In Proceedings of the 2022 AAAI Conference on Artificial Intelligence (AAAI), 2022. [15% acceptance rate]",https://arxiv.org/pdf/2109.02927.pdf,"Social Network Analysis, Graph Neural Networks",,,https://github.com/BunsenFeng/bot_heterogeneity,"@article{feng2021heterogeneity,</br>
+2021,Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers,"Shangbin Feng, Zhaoxuan Tan, Rui Li, Minnan Luo","To appear at the Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022. [15% acceptance rate]",https://arxiv.org/pdf/2109.02927.pdf,"Social Network Analysis, Graph Neural Networks",,,https://github.com/BunsenFeng/bot_heterogeneity,"@article{feng2021heterogeneity,</br>
   title={Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers},</br>
   author={Feng, Shangbin and Tan, Zhaoxuan and Li, Rui and Luo, Minnan},</br>
   journal={arXiv preprint arXiv:2109.02927},</br>
