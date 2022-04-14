@@ -1,5 +1,16 @@
 year,title,authors,publication,link,category,demo,data,software,bibtex,abstract,poster,posterTitle,posterAuthors,posterConference,posterYear,posterLocation,pageCategory,download,downloadName,downloadDescription,downloadLink,downloadDate,downloadLinkNames,new,notes
-2021,Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers,"Shangbin Feng, Zhaoxuan Tan, Rui Li, Minnan Luo","To appear at the Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022. [15% acceptance rate]",https://arxiv.org/pdf/2109.02927.pdf,"Social Network Analysis, Graph Neural Networks",,,https://github.com/BunsenFeng/bot_heterogeneity,"@article{feng2021heterogeneity,</br>
+2022,KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media,"Wenqian Zhang<sup>*</sup>, Shangbin Feng<sup>*</sup>, Zilong Chen<sup>*</sup>, Zhenyu Lei, Jundong Li, Minnan Luo",,https://arxiv.org/abs/2204.04046,"Natural Language Processing, Knowledge Graph",,,,"@misc{https://doi.org/10.48550/arxiv.2204.04046,</br>
+  doi = {10.48550/ARXIV.2204.04046},</br>
+  url = {https://arxiv.org/abs/2204.04046},</br>  
+  author = {Zhang, Wenqian and Feng, Shangbin and Chen, Zilong and Lei, Zhenyu and Li, Jundong and Luo, Minnan},</br>
+  keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},</br>  
+  title = {KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media},</br>
+  publisher = {arXiv},</br>
+  year = {2022},</br>
+  copyright = {Creative Commons Attribution 4.0 International}
+}"
+,"Political perspective detection has become an increasingly important task that can help combat echo chambers and political polarization. Previous approaches generally focus on leveraging textual content to identify stances, while they fail to reason with background knowledge or leverage the rich semantic and syntactic textual labels in news articles. In light of these limitations, we propose KCD, a political perspective detection approach to enable multi-hop knowledge reasoning and incorporate textual cues as paragraph-level labels. Specifically, we firstly generate random walks on external knowledge graphs and infuse them with news text representations. We then construct a heterogeneous information network to jointly model news content as well as semantic, syntactic and entity cues in news articles. Finally, we adopt relational graph neural networks for graph-level representation learning and conduct political perspective detection. Extensive experiments demonstrate that our approach outperforms state-of-the-art methods on two benchmark datasets. We further examine the effect of knowledge walks and textual cues and how they contribute to our approach's data efficiency.",,,,,,,LIT,FALSE,,,,,,FALSE,
+2021,Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers,"Shangbin Feng, Zhaoxuan Tan, Rui Li, Minnan Luo","the Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022. [15% acceptance rate]",https://arxiv.org/pdf/2109.02927.pdf,"Social Network Analysis, Graph Neural Networks",,,https://github.com/BunsenFeng/bot_heterogeneity,"@article{feng2021heterogeneity,</br>
   title={Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers},</br>
   author={Feng, Shangbin and Tan, Zhaoxuan and Li, Rui and Luo, Minnan},</br>
   journal={arXiv preprint arXiv:2109.02927},</br>
@@ -32,7 +43,7 @@ bot detection measures fail to match their previously claimed performance on Twi
 which suggests that Twitter bot detection remains a challenging task and requires
 further research efforts.},</br>
 booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},</br>
-pages = {4485â€?494},</br>
+pages = {4485ï¿½?494},</br>
 numpages = {10},</br>
 keywords = {benchmarking, twitter bot detection, social media, twitter API},</br>
 location = {Virtual Event, Queensland, Australia},</br>
@@ -50,7 +61,7 @@ doi = {10.1145/3459637.3481949},</br>
 abstract = {Twitter has become a major social media platform since its launching in 2006, while complaints about bot accounts have increased recently. Although extensive research
 efforts have been made, the state-of-the-art bot detection methods fall short of generalizability and adaptability. Specifically, previous bot detectors leverage only a small fraction of user information and are often trained on datasets that only cover few types of bots. As a result, they fail to generalize to real-world scenarios on the Twittersphere where different types of bots co-exist. Additionally, bots in Twitter are constantly evolving to evade detection. Previous efforts, although effective once in their context, fail to adapt to new generations of Twitter bots. To address the two challenges of Twitter bot detection, we propose SATAR, a self-supervised representation learning framework of Twitter users, and apply it to the task of bot detection. In particular, SATAR generalizes by jointly leveraging the semantics, property and neighborhood information of a specific user. Meanwhile, SATAR adapts by pre-training on a massive number of self-supervised users and fine-tuning on detailed bot detection scenarios. Extensive experiments demonstrate that SATAR outperforms competitive baselines on different bot detection datasets of varying information completeness and collection time. SATAR is also proved to generalize in real-world scenarios and adapt to evolving generations of social media bots.},
 booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},</br>
-pages = {3808â€?817},</br>
+pages = {3808ï¿½?817},</br>
 numpages = {10},</br>
 keywords = {self-supervised learning, representation learning, twitter bot detection, social media},</br>
 location = {Virtual Event, Queensland, Australia},</br>
