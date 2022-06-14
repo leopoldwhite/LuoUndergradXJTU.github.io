@@ -1,4 +1,14 @@
 year,title,authors,publication,link,category,demo,data,software,bibtex,abstract,poster,posterTitle,posterAuthors,posterConference,posterYear,posterLocation,pageCategory,download,downloadName,downloadDescription,downloadLink,downloadDate,downloadLinkNames,new,notes
+2022,TwiBot-22: Towards Graph-Based Twitter Bot Detection,"Shangbin Feng<sup>*</sup>, Zhaoxuan Tan<sup>*</sup>, Herun Wan<sup>*</sup>, Ningnan Wang<sup>*</sup>, Zilong Chen<sup>*</sup>, Binchi Zhang<sup>*</sup>, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo",arXiv preprint arXiv:2206.04564 (2022).,https://arxiv.org/abs/2206.04564,Social Network Analysis,,https://twibot22.github.io/,https://github.com/LuoUndergradXJTU/TwiBot-22,"@misc{https://doi.org/10.48550/arxiv.2206.04564,</br>
+  doi = {10.48550/ARXIV.2206.04564},</br>
+  url = {https://arxiv.org/abs/2206.04564},</br>
+  author = {Feng, Shangbin and Tan, Zhaoxuan and Wan, Herun and Wang, Ningnan and Chen, Zilong and Zhang, Binchi and Zheng, Qinghua and Zhang, Wenqian and Lei, Zhenyu and Yang, Shujie and Feng, Xinshun and Zhang, Qingyue and Wang, Hongrui and Liu, Yuhan and Bai, Yuyang and Wang, Heng and Cai, Zijian and Wang, Yanbo and Zheng, Lijing and Ma, Zihan and Li, Jundong and Luo, Minnan},</br>
+  keywords = {Social and Information Networks (cs.SI), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},</br>
+  title = {TwiBot-22: Towards Graph-Based Twitter Bot Detection},</br>
+  publisher = {arXiv},</br>
+  year = {2022},</br>
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}","Twitter bot detection has become an increasingly important task to combat misinformation, facilitate social media moderation, and preserve the integrity of the online discourse. State-of-the-art bot detection methods generally leverage the graph structure of the Twitter network, and they exhibit promising performance when confronting novel Twitter bots that traditional methods fail to detect. However, very few of the existing Twitter bot detection datasets are graph-based, and even these few graph-based datasets suffer from limited dataset scale, incomplete graph structure, as well as low annotation quality. In fact, the lack of a large-scale graph-based Twitter bot detection benchmark that addresses these issues has seriously hindered the development and evaluation of novel graph-based bot detection approaches. In this paper, we propose TwiBot-22, a comprehensive graph-based Twitter bot detection benchmark that presents the largest dataset to date, provides diversified entities and relations on the Twitter network, and has considerably better annotation quality than existing datasets. In addition, we re-implement 35 representative Twitter bot detection baselines and evaluate them on 9 datasets, including TwiBot-22, to promote a fair comparison of model performance and a holistic understanding of research progress. To facilitate further research, we consolidate all implemented codes and datasets into the TwiBot-22 evaluation framework, where researchers could consistently evaluate new models and datasets. The TwiBot-22 Twitter bot detection benchmark and evaluation framework are publicly available at https://twibot22.github.io/.",,,,,,,,FALSE,,,,,,FALSE,
 2022,KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media,"Wenqian Zhang<sup>*</sup>, Shangbin Feng<sup>*</sup>, Zilong Chen<sup>*</sup>, Zhenyu Lei, Jundong Li, Minnan Luo","Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022. ",https://arxiv.org/abs/2204.04046,"Natural Language Processing, Knowledge Graph",,,,"@misc{https://doi.org/10.48550/arxiv.2204.04046,</br>
   doi = {10.48550/ARXIV.2204.04046},</br>
   url = {https://arxiv.org/abs/2204.04046},</br>  
@@ -42,7 +52,7 @@ bot detection measures fail to match their previously claimed performance on Twi
 which suggests that Twitter bot detection remains a challenging task and requires
 further research efforts.},</br>
 booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},</br>
-pages = {4485ï¿?494},</br>
+pages = {4485ï¿½?494},</br>
 numpages = {10},</br>
 keywords = {benchmarking, twitter bot detection, social media, twitter API},</br>
 location = {Virtual Event, Queensland, Australia},</br>
@@ -60,7 +70,7 @@ doi = {10.1145/3459637.3481949},</br>
 abstract = {Twitter has become a major social media platform since its launching in 2006, while complaints about bot accounts have increased recently. Although extensive research
 efforts have been made, the state-of-the-art bot detection methods fall short of generalizability and adaptability. Specifically, previous bot detectors leverage only a small fraction of user information and are often trained on datasets that only cover few types of bots. As a result, they fail to generalize to real-world scenarios on the Twittersphere where different types of bots co-exist. Additionally, bots in Twitter are constantly evolving to evade detection. Previous efforts, although effective once in their context, fail to adapt to new generations of Twitter bots. To address the two challenges of Twitter bot detection, we propose SATAR, a self-supervised representation learning framework of Twitter users, and apply it to the task of bot detection. In particular, SATAR generalizes by jointly leveraging the semantics, property and neighborhood information of a specific user. Meanwhile, SATAR adapts by pre-training on a massive number of self-supervised users and fine-tuning on detailed bot detection scenarios. Extensive experiments demonstrate that SATAR outperforms competitive baselines on different bot detection datasets of varying information completeness and collection time. SATAR is also proved to generalize in real-world scenarios and adapt to evolving generations of social media bots.},
 booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},</br>
-pages = {3808ï¿?817},</br>
+pages = {3808ï¿½?817},</br>
 numpages = {10},</br>
 keywords = {self-supervised learning, representation learning, twitter bot detection, social media},</br>
 location = {Virtual Event, Queensland, Australia},</br>
