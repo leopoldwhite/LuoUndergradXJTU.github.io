@@ -1,5 +1,5 @@
 year,title,authors,publication,link,category,demo,data,software,bibtex,abstract,poster,posterTitle,posterAuthors,posterConference,posterYear,posterLocation,pageCategory,download,downloadName,downloadDescription,downloadLink,downloadDate,downloadLinkNames,new,notes
-2022,AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach,AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach,arXiv preprint arXiv:2208.08200(2022).,https://arxiv.org/abs/2208.08200,Graph Neural Networks,,,,"@misc{https://doi.org/10.48550/arxiv.2208.08200,
+2022,AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach,"Shujie Yang, Binchi Zhang, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Jun Zhou, Minnan Luo",arXiv preprint arXiv:2208.08200(2022).,https://arxiv.org/abs/2208.08200,Graph Neural Networks,,,,"@misc{https://doi.org/10.48550/arxiv.2208.08200,
   doi = {10.48550/ARXIV.2208.08200},
   
   url = {https://arxiv.org/abs/2208.08200},
